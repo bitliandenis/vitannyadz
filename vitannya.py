@@ -1,0 +1,1 @@
+print('dobriy den mukeriya oleksandr')
